@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>qt_tcp_clientClass</class>
+ <widget class="QWidget" name="qt_tcp_clientClass" >
+  <property name="objectName" >
+   <string notr="true">qt_tcp_clientClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>qt_tcp_client</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="qt_tcp_client.qrc"/>
+ </resources>
+ <connections/>
+</UI>
